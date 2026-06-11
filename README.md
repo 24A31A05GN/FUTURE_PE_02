@@ -40,3 +40,9 @@ Generate AI-powered UGC-style marketing content including hooks, ad scripts, CTA
 
 ### Outcome
 Successfully generated a complete AI-powered UGC Ad Content Pack for Boat Airdopes Earbuds.
+## Author
+
+Revathi Ch
+
+Prompt Engineering Intern
+Future Interns
